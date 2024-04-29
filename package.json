@@ -4,7 +4,7 @@
   "description": "Grab full URL from request",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nuxt-contrib/requrl.git"
+    "url": "git+https://github.com/unjs/requrl.git"
   },
   "license": "MIT",
   "sideEffects": false,
