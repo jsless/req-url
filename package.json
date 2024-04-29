@@ -2,7 +2,10 @@
   "name": "requrl",
   "version": "3.0.2",
   "description": "Grab full URL from request",
-  "repository": "nuxt-contrib/requrl",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nuxt-contrib/requrl.git"
+  },
   "license": "MIT",
   "sideEffects": false,
   "main": "dist/requrl.js",
